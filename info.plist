@@ -7,10 +7,10 @@
 	<key>contactName</key>
 	<string>fazibear</string>
 	<key>description</key>
-	<string>New shiny bundle for X.</string>
+	<string>crystal-lang.org</string>
 	<key>name</key>
 	<string>Crystal</string>
-	<key>uuid</key>
-	<string>FC8E7138-224B-47B3-950D-5AF138FE8A8A</string>
+  <key>uuid</key>
+  <string>35FD95EF-E328-4C53-B724-522E8570D2F3</string>
 </dict>
 </plist>

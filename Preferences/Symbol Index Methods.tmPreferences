@@ -9,5 +9,7 @@
         <key>symbolIndexTransformation</key>
         <string>/self\.(.*)/$1/;</string>
     </dict>
+  	<key>uuid</key>
+  	<string>23E790DE-0CBE-4293-B4D9-74E1807F8730</string>
 </dict>
 </plist>

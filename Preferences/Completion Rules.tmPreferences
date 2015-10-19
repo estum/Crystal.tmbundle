@@ -9,5 +9,7 @@
         <key>cancelCompletion</key>
         <string>^\s*(else|end|do|begin|rescue|(class|def|module|include)\s*[a-zA-Z_0-9]+)$</string>
     </dict>
+  	<key>uuid</key>
+  	<string>2797CA0E-6B23-4EC3-B916-FD17EF51F915</string>
 </dict>
 </plist>

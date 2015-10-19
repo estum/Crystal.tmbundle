@@ -9,5 +9,7 @@
         <key>showInIndexedSymbolList</key>
         <string>0</string>
     </dict>
+  	<key>uuid</key>
+  	<string>614E4725-90DB-4D5F-89AA-F0739BCD5AB5</string>
 </dict>
 </plist>
