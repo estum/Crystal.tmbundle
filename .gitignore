@@ -1,0 +1,7 @@
+vendor/*
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.graffiti
